@@ -1,2 +1,2 @@
-# TSN_PATTERNS_DEMO
+# GVA_PATTERNS
 Простейшие примеры реализации паттернов на Java в NetBeans
